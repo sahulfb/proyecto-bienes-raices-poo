@@ -1,0 +1,19 @@
+{
+    "name": "sahul_fb/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sahulfb",
+            "email": "sahulfb@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
